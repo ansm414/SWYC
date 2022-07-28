@@ -1,0 +1,19 @@
+.banner{
+  background-size: cover;
+    width: 100%;
+}
+#head3{
+    margin-top: -200px;
+    color: white;
+}
+.foodwaste{
+    width: 30%;
+    border:none
+}
+
+.mt .row{
+    margin-top: 150px;
+}
+.gotsome{
+    color: green;
+}

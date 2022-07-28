@@ -1,0 +1,93 @@
+a:hover {
+  text-decoration: bold;
+}
+
+p:hover {
+}
+
+#ads {
+  box-shadow: 3px 3px 3px 3px gray;
+}
+
+#ads:hover {
+  box-shadow: 8px 8px 8px 8px gray;
+  transition: .3s;
+}
+
+#fadspic {
+  border: 1px solid black;
+}
+
+#fadsdis {
+  border: 1px solid black;
+}
+
+#favoriteads:hover {
+  box-shadow: 4px 4px 4px 4px gray;
+  transition: .5s;
+}
+
+#userpic {
+  border: 1px solid black;
+}
+
+#ad {
+  border: 1px solid black;
+}
+
+#searchaddiscription {
+  border: 1px solid black;
+}
+
+#searchresult:hover {
+  box-shadow: 7px 7px 7px 7px gray;
+}
+
+body {
+  /*background-image: linear-gradient(white,green);*/
+}
+
+:root {
+  /*background-image: linear-gradient(white,green);*/
+}
+
+#procedure {
+  border: 1px solid green;
+}
+
+#what {
+  border: 1px solid green;
+}
+
+#foodwaste {
+  border: 1px solid green;
+  border: none;
+}
+
+#clear {
+  border: 1px solid green;
+}
+
+#location-toggle::after {
+  content: none;
+}
+
+.dropdown-toggle::after {
+  content: none;
+}
+
+.dropdown-menu.show {
+}
+
+#locationmenu {
+  border: none;
+}
+
+#adindex {
+  border: 2px solid black;
+}
+
+#related {
+  border: 2px solid black;
+}
+

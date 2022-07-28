@@ -1,0 +1,128 @@
+.col-xl-4.offset-xl-2.text-center {
+  box-shadow: 2px 2px 2px 2px grey;
+  /*border-radius: 30px;*/
+}
+
+.form-control {
+  border-radius: 30px;
+}
+
+.form-control.email-imput.form-control {
+  border-radius: 30px;
+}
+
+.col-md-4.text-center {
+  /*box-shadow: 2px 2px 2px 2px grey;*/
+}
+
+.col-md-4.text-center:hover {
+  /*box-shadow: 5px 5px 5px 5px grey;*/
+  /*transition: 0.10s;*/
+}
+
+.col-md-4.text-center {
+}
+
+.form-row > .col, .form-row > [class*=col-] {
+  border: 1px solid green;
+  box-shadow: 2px 2px 2px grey;
+}
+
+#discription {
+  box-shadow: 1px 1px 1px 1px grey;
+  border: 1px solid black;
+  /*border-top: 2px solid green;*/
+  /*border-right: 2px solid green;*/
+  /*border-left: 2px solid green;*/
+}
+
+#address {
+  box-shadow: 1px 1px 1px 1px gray;
+  border: 1px solid black;
+  /*border-top: 2px solid green;*/
+  /*border-right: 2px solid green;*/
+  /*border-left: 2px solid green;*/
+}
+
+#owner {
+  box-shadow: 1px 1px 1px 1px gray;
+  border: 2px solid black;
+  /*border-right: 2px solid green;*/
+  /*border-left: 2px solid green;*/
+}
+
+#discription:hover {
+  box-shadow: 6px 6px 6px 6px grey;
+  transition: 0.3s;
+}
+
+#address:hover {
+  box-shadow: 6px 6px 6px 6px gray;
+  transition: .3s;
+}
+
+#owner:hover {
+  box-shadow: 6px 6px 6px 6px gray;
+  transition: .3s;
+}
+
+#searchresult {
+  box-shadow: 3px 3px 3px 3px grey;
+}
+
+#team {
+  box-shadow: 3px 3px 3px 3px gray;
+  border-radius: 15px;
+  
+}
+
+#card {
+  box-shadow: 2px 2px 2px gray;
+}
+
+#card:hover {
+  box-shadow: 7px 7px 7px 7px gray;
+  transition: .4s;
+}
+
+#pic {
+  /*border-top: 2px solid green;*/
+  /*border-right: 2px solid green;*/
+  /*border-left: 2px solid green;*/
+}
+
+#mypic {
+  /*border-bottom: 2px solid green;*/
+  /*border-left: 2px solid green;*/
+  /*border-right: 2px solid green;*/
+}
+
+.col-md-6.col-xl-3.text-center {
+}
+
+.fa.fa-heart {
+}
+
+.fa.fa-heart {
+  /*outline: 2px solid black;*/
+}
+
+.fa.fa-heart:before {
+  color: black;
+}
+
+.fa.fa-heart::after {
+  color: red;
+}
+
+.row {
+}
+
+#adimage {
+  border: 1px solid black;
+}
+
+#slogan:hover {
+  /*background: green;*/
+}
+
